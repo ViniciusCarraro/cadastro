@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673461302814",
+    "project_id": "autenticador-senai-33",
+    "storage_bucket": "autenticador-senai-33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673461302814:android:ef2c912555a01f0d5be00f",
+        "android_client_info": {
+          "package_name": "com.example.cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlV4zRknd9uL5o8aAbMNaKEZdAHwp_dPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
